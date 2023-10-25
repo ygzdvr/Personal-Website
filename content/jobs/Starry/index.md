@@ -1,8 +1,8 @@
 ---
 date: '2016-12-21'
 title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
+company: 'PPPL'
+location: 'Princeton, NJ'
 range: 'July - December 2016'
 url: 'https://starry.com/'
 ---

@@ -59,7 +59,7 @@ const Layout = ({ children, location }) => {
           </a>
 
           {isLoading && isHome ? (
-            <Loader finishLoading={() => setIsLoading(true)} />
+            <Loader finishLoading={() => setIsLoading(false)} />
           ) : (
             <StyledContent>
               <Nav isHome={isHome} />

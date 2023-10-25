@@ -1,10 +1,10 @@
 ---
 date: '2017-04-01'
 title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+company: 'Diner - ARt Labs'
+location: 'Istanbul, Turkey'
+range: 'Fall 2021 & Spring 2022'
+url: 'diner.com.tr/en/'
 ---
 
 - Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community

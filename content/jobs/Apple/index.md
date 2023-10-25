@@ -1,13 +1,14 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Undergraduate Teaching Assistant'
+company: 'Princeton University'
+location: 'Princeton, NJ'
+range: 'January 2023 - June 2023'
+url: 'https://www.cs.princeton.edu/courses/archive/spring23/cos226/syllabus.php'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Provided valuable support to over 50 students by guiding them through various algorithms and abstract data structures concepts.
+- Collaborated with the teaching team to create and review course materials, making complex concepts accessible to a diverse group of learners.
+- Fostered a culture of learning and curiosity within the student community, encouraging their growth in the field of computer science.
+- Played a pivotal role in enhancing students' understanding of algorithms and data structures, contributing to their academic success.
+- Actively participated in the development of instructional materials, ensuring that they aligned with the course's learning objectives and students' needs.

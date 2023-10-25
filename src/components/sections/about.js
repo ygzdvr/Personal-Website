@@ -180,17 +180,7 @@ const About = () => {
               clients.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched an app
-              </a>{' '}
-              that utilizes the user data I extract from Spotify API using Postman. I use OpenAI's
-              vectorization API to vectorize every user and use Pinecone API to store these AI
-              entegrated vectors in a vector database for playlist, album and artist recommendation.
-            </p>
-
-            <p>Here are a few programming languages I’ve been working with recently:</p>
+            <p>Here are a few languages I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
@@ -208,7 +198,7 @@ const About = () => {
               className="img"
               src="../../images/me.jpg"
               width={500}
-              quality={95}
+              quality={100}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
             />

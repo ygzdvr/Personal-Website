@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <div>
-          Designed &amp; Built by Yagiz Devre. Heavy inspiration from{''}
+          Designed &amp; Built by Yagiz Devre. Inspired from{''}
           <a href="https://brittanychiang.com/" target="_blank" rel="noreferrer">
             Brittany Chiang
           </a>

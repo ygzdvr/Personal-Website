@@ -1,14 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'Undergraduate Teaching Assistant'
-company: 'Princeton University'
+title: 'Triangulum Extended (TREX) Survey: I. An Automated Method for Precise Airglow Subtraction for Keck DEIMOS Multislit Spectra'
+company: 'American Astronomical Society'
 location: 'Princeton, NJ'
-range: 'January 2023 - June 2023'
-url: 'https://www.cs.princeton.edu/courses/archive/spring23/cos226/syllabus.php'
+range: 'June 2022'
+url: 'https://ui.adsabs.harvard.edu/abs/2022AAS...24030201G/abstract'
 ---
 
-- Provided valuable support to over 50 students by guiding them through various algorithms and abstract data structures concepts.
-- Collaborated with the teaching team to create and review course materials, making complex concepts accessible to a diverse group of learners.
-- Fostered a culture of learning and curiosity within the student community, encouraging their growth in the field of computer science.
-- Played a pivotal role in enhancing students' understanding of algorithms and data structures, contributing to their academic success.
-- Actively participated in the development of instructional materials, ensuring that they aligned with the course's learning objectives and students' needs.
+The Deep Imaging Multi-Object Spectrograph (DEIMOS) on the Keck II 10-meter telescope on Manua Kea in Hawaii is one of the most powerful instruments in the world for obtaining spectra of faint objects at visible wavelengths. As such, DEIMOS has been a workhorse instrument for a large community of Keck observers since it was commissioned on the telescope nearly two decades ago. Since Keck and DEIMOS are ground based, the spectra are affected by the Earth's atmospheric emission lines, or airglow. In this the first of a series of three AAS posters, we present an automated method for optimizing atmospheric airglow subtraction which is useful for spectroscopic studies of faint astrophysical targets. Using DEIMOS multi slit spectroscopic data from the Triangulum Extended (TREX) survey that contains emission lines associated with ionized gas in the disk of M33, we have developed mask design procedures ...

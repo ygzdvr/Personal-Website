@@ -1,16 +1,15 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Gigl: The Student-Driven Freelancing Platform'
+cover: './demo.png'
+external: 'https://www.gigl.tech'
+cta: 'https://www.gigl.tech'
+github: 'https://github.com/taylanoaydin/gigl'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Flask
+  - Python
+  - Tailwind CSS
+  - PostgreSQL
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Campus Marketplace Made Easy! Gigl is designed specifically for Princeton University students, offering an accessible platform for both seeking and providing a variety of services, from graduation headshots to other skilled tasks, directly within the campus community.

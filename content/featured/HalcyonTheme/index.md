@@ -1,15 +1,19 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Harmony Connecting People Through Music'
+cover: './demo.png'
+github: 'https://github.com/ygzdvr/Harmony'
+external: 'https://github.com/ygzdvr/Harmony'
+cta: 'https://github.com/ygzdvr/Harmony'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React Native
+  - JavaScript
+  - Pinecone Vector DB
+  - Firebase DB
+  - OpenAI Embedding
+  - Spotify API
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Harmony is an innovative social networking platform focused on music as the primary medium of connection. Unlike conventional social media, Harmony emphasizes individualized experiences and connections based on musical tastes rather than followers or popularity.
+
+Harmony’s backend architecture incorporates advanced technologies: React Native for a cross-platform mobile experience, Pinecone API for handling high-dimensional vector data, and OpenAI API for generating and embedding user vectors.

@@ -244,7 +244,7 @@ const Publications = () => {
 
   return (
     <StyledPublicationsSection id="publications" ref={revealContainer}>
-      <h2 className="numbered-heading">Where I’ve Worked</h2>
+      <h2 className="numbered-heading">Publications I'm a Part of</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Publication tabs" onKeyDown={e => onKeyDown(e)}>

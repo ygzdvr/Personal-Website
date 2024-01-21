@@ -1,6 +1,6 @@
 ---
-date: '2017-12-21'
-title: 'Undergraduate Teaching Assistant'
+date: '4'
+title: 'COS226 Algorithms and Data Structures Undergraduate Teaching Assistant'
 company: 'Princeton University'
 location: 'Princeton, NJ'
 range: 'January 2023 - June 2023'

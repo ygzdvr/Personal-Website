@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Founder & Lead Developer'
+date: '5'
+title: 'Co-Founder & CEO'
 company: 'Sociokraft'
 location: 'Istanbul, Turkey'
 range: 'May 2022 - Present'
-url: 'https://www.socikraft.com/'
+url: 'https://www.sociokraft.com/'
 ---
 
 - Spearhead the development of high-quality, robust code for diverse projects, serving clients and enhancing Sociokraft's digital ecosystem.

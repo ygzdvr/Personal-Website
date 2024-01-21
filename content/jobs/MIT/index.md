@@ -4,7 +4,7 @@ title: 'Renormalization Group Researcher & Teaching Assistant'
 company: 'MIT Berker Group'
 location: 'Boston, MA'
 range: 'September 2021 - March 2022'
-url: 'https://us.mullenlowe.com/'
+url: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054124#fulltext'
 ---
 
 - Conducted cutting-edge research alongside MIT Emeritus Professor Dr. Nihat Berker, focusing on the intricate dynamics of phase changes and renormalization group theory.
